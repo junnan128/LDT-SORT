@@ -28,13 +28,6 @@ Tracking performance
 |:---------:|:---------:|:---------:|:---------:|
 |  LDT-SORT |  80.2   |  81.4   |  65.2   |  
 
-Citation 🔍
+Acknowledgement
 ==
-For more details on the original dataset, refer to the paper:<br>
-```markdown
-@article{Milan_Leal-Taixé_Reid_Roth_Schindler_2016,
-  title={MOT17: A Benchmark for Multi-Object Tracking},
-  journal={Cornell University - arXiv,Cornell University - arXiv},
-  author={Milan, Anton and Leal-Taixé, Laura and Reid, Ian and Roth, Stefan and Schindler, Konrad},
-  year={2016},  month={Mar},  language={en-US}
-}
+A large part of the codes, ideas and results are borrowed from[ByteTrack](https://github.com/ifzhang/ByteTrack),[YOLOX](https://github.com/Megvii-BaseDetection/YOLOX),[BoT-SORT](https://github.com/NirAharon/BoT-SORT),[LDConv](https://github.com/CV-ZhangXin/LDConv) and [OC-SORT](https://github.com/noahcao/OC_SORT).Thanks for their excellent work!
